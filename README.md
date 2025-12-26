@@ -77,7 +77,3 @@ Key insights:
 - Scikit-learn
 - XGBoost
 - Matplotlib, Seaborn
-
----
-
-## 📁 Project Structure
